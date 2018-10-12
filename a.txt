@@ -1,0 +1,12 @@
+Getting buildpacks...
+
+buildpack                position   enabled   locked   filename                                  stack
+staticfile_buildpack     1          true      false    staticfile_buildpack-cached-v1.4.21.zip
+java_buildpack_offline   2          true      false    java-buildpack-offline-v4.8.zip
+ruby_buildpack           3          true      false    ruby_buildpack-cached-v1.7.11.zip
+nodejs_buildpack         4          true      false    nodejs_buildpack-cached-v1.6.15.zip
+go_buildpack             5          true      false    go_buildpack-cached-v1.8.16.zip
+python_buildpack         6          true      false    python_buildpack-cached-v1.6.7.zip
+php_buildpack            7          true      false    php_buildpack-cached-v4.3.48.zip
+dotnet_core_buildpack    8          true      false    dotnet-core-buildpack-v2.0.7.zip
+binary_buildpack         9          true      false    binary_buildpack-cached-v1.0.15.zip
